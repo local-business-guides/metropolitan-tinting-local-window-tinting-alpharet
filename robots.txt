@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/metropolitan-tinting-local-window-tinting-alpharet/sitemap.xml
